@@ -1,13 +1,6 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I am currently working toward the M.S. degree with School of Computer Science and Engineering, Sun Yat-sen University, supervised by Prof. [Chengying Gao](https://cse.sysu.edu.cn/content/2537) in [Intelligent and Multimedia Science Laboratory](https://www.sysu-imsl.com/members.html). I received the B.S. degree in computer science and technology from University of Electronic Science and Technology of China, Sichuan, China, in 2018, respectively.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research interests mainly lie in indoor navigation and positioning algorithms and location-based data analysis, to channel theory and algorithms into empowering the location-based applications.
 
 A data-driven personal website
 ======
