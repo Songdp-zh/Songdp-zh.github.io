@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Biography"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am currently working toward the M.S. degree with School of Computer Science and Engineering, Sun Yat-sen University, supervised by Prof. [Chengying Gao](https://cse.sysu.edu.cn/content/2537) in [Intelligent and Multimedia Science Laboratory](https://www.sysu-imsl.com/members.html). I received the B.S. degree in computer science and technology from University of Electronic Science and Technology of China, Sichuan, China, in 2018, respectively.
 
 My research interests mainly lie in indoor navigation and positioning algorithms and location-based data analysis, to channel theory and algorithms into empowering the location-based applications.
