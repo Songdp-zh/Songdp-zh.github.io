@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently working toward the M.S. degree with School of Computer Science and Engineering, Sun Yat-sen University, supervised by Prof. [Chengying Gao](https://cse.sysu.edu.cn/content/2537) in [Intelligent and Multimedia Science Laboratory](https://www.sysu-imsl.com/members.html). I received the B.S. degree in computer science and technology from University of Electronic Science and Technology of China, Sichuan, China, in 2018, respectively.
 
-My research interests include computer Graphics and computer Vision.
+My research interests include Computer Graphics and Computer Vision.
 
 News
 ------
