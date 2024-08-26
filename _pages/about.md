@@ -13,11 +13,11 @@ My research interests include computer Graphics and computer Vision, specificall
 
 News
 ------
-- Aug. 2024: One paper [CIE] was accepted by PG 2024!
+- Aug. 2024: One paper [CAIE] was accepted by PG 2024!
 
 Publications
 ------
-<img src="/images/Work1.png" width=400 />
+<img src="/images/Work1.png" width=450 />
 <br>
 **Controllable Anime Image Editing via Probability of Attribute Tags**<br>
 **Zhenghao Song**, Haoran Mo, Chengying Gao*
