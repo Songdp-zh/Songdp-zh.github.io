@@ -17,9 +17,8 @@ News
 
 Publications
 ------
-<img align="left" src="/images/Work1.png" width=450 />
-Controllable Anime Image Editing via Probability of Attribute Tags
-
+<img align="left" src="/images/Work1.png" width=350 />
+Controllable Anime Image Editing via Probability of Attribute Tags<br>
 Zhenghao Song, Haoran Mo, Chengying Gao<br>
 Pacific Graphics (PG 2024)(CCF-B)
 
