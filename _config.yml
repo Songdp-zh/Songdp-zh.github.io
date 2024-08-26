@@ -21,7 +21,7 @@ repository               : "Songdp-zh/Songdp-zh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Portrait.png"
+  avatar           : "1:1.png"
   name             : "Zhenghao Song (宋正浩）"
   pronouns         : # example: "she/her"  
   bio              : "Master Student"
