@@ -21,5 +21,6 @@ Publications
 Controllable Anime Image Editing via Probability of Attribute Tags
 
 Zhenghao Song, Haoran Mo, Chengying Gao
+
 Pacific Graphics (PG 2024)(CCF-B)
 
