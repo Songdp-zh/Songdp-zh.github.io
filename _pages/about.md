@@ -17,7 +17,7 @@ News
 
 Publications
 ------
-<img align="left" src="/images/Work1.png" style="max-width: 50%;" />
+<img align="left" src="/images/Work1.png" style="max-width: 10%;" />
 Controllable Anime Image Editing via Probability of Attribute Tags
 
 Zhenghao Song, Haoran Mo, Chengying Gao<br>
